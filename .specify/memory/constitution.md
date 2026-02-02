@@ -11,57 +11,57 @@ Templates requiring updates:
 Follow-up TODOs: None
 -->
 
-# Physical AI & Humanoid Robotics Academy — Comprehensive Learning Platform with AI Tutoring
+# Physical AI & Humanoid Robotics Academy — Advanced Learning Platform with Intelligent Tutoring
 
-## Core Principles
+## Foundational Principles
 
-### Educational Excellence and Technical Precision
-All robotics and AI concepts must be presented with exceptional technical accuracy and depth. Educational content must be grounded in current research, industry best practices, and proven methodologies in robotics development. No oversimplified or misleading technical explanations are permitted.
+### Technical Excellence and Educational Integrity
+All robotics and artificial intelligence concepts must be delivered with unparalleled technical precision and comprehensive depth. Academic content must be anchored in contemporary research, established industry practices, and validated methodologies within robotics engineering. Oversimplified or inaccurate technical presentations are strictly prohibited.
 
-### Learner-Centric Design
-Content must be crafted for maximum educational impact and accessibility for engineers, researchers, and students at various skill levels. Learning materials should maintain an engaging tone while preserving technical rigor, ensuring concepts are both understandable and actionable.
+### Student-Focused Pedagogical Design
+Educational materials must be developed to maximize learning effectiveness and accessibility across diverse technical backgrounds including engineers, researchers, and students at multiple competency levels. Course content should balance captivating delivery with technical excellence, ensuring concepts remain comprehensible yet practically applicable.
 
-### Practical Mastery Through Application
-All theoretical concepts must be reinforced with hands-on projects, code examples, and real-world implementations. Students should be able to immediately apply what they learn through guided exercises, simulations, and progressive skill-building activities.
+### Applied Learning Through Hands-On Engagement
+All theoretical frameworks must be strengthened through practical projects, implementation examples, and real-world applications. Students must possess immediate opportunities to implement learned concepts through guided activities, simulation exercises, and sequential skill-development initiatives.
 
-### Innovation-Forward Curriculum
-The academy must consistently incorporate cutting-edge developments in robotics, AI, and embodied intelligence. Content should reflect the latest industry trends, emerging technologies, and forward-thinking approaches to robotics education.
+### Forward-Thinking Educational Framework
+The curriculum must continuously integrate pioneering advancements in robotics, artificial intelligence, and embodied cognition. Academic content should mirror current industry developments, innovative technologies, and progressive methodologies in robotics pedagogy.
 
-### Comprehensive Source Attribution
-All technical claims, research citations, and industry references must be properly attributed using standardized academic formats. Content credibility is paramount and all sources must be verifiable and authoritative.
+### Rigorous Academic Citation Standards
+All technical assertions, scholarly references, and industrial citations must follow standardized academic attribution protocols. Content authenticity remains essential and all sources must be authenticated and credible.
 
-## Technology and Platform Standards
+## Technical Infrastructure and Platform Requirements
 
-The project must adhere to the following technology stack and platform requirements:
-- Format: Docusaurus-based educational platform with responsive design
-- AI-powered tutoring system using RAG for intelligent question answering
-- Technologies: React, Node.js, FastAPI, Qdrant, OpenAI APIs, Cohere embeddings
-- Curriculum alignment with ROS 2, Gazebo, Isaac Sim, and VLA systems
-- Multi-language support for global accessibility
+The project shall conform to the following technology framework and platform specifications:
+- Platform: Docusaurus-powered educational system featuring adaptive responsive design
+- Intelligent tutoring infrastructure utilizing Retrieval-Augmented Generation for advanced question processing
+- Technology Stack: React, Node.js, FastAPI, Qdrant, OpenAI APIs, Cohere embedding systems
+- Curriculum integration with ROS 2, Gazebo, Isaac Sim, and Multimodal AI systems
+- Internationalization support enabling global educational access
 
-## Development Workflow
+## Development Methodology
 
-The project follows Spec-Driven Development (SDD) methodology with the following requirements:
-- Strict adherence to specification-driven development process
-- All implementations must reference approved specifications
-- Changes to core curriculum require formal review and approval
-- All content additions must include verification and testing procedures
-- Student feedback integration must guide continuous improvement
-- Accessibility compliance must be maintained for all educational materials
+The project implements Specification-Driven Development (SDD) with the following standards:
+- Unwavering commitment to specification-guided development practices
+- All implementations must align with approved technical specifications
+- Modifications to core curriculum necessitate formal review and authorization
+- All content enhancements must incorporate verification and validation protocols
+- Student feedback incorporation must drive ongoing enhancement initiatives
+- Universal accessibility compliance must be preserved across all educational resources
 
-## Quality Assurance
+## Quality Management
 
-Educational content must meet rigorous quality standards:
-- Technical accuracy verified by subject matter experts
-- Code examples tested and validated for reproducibility
-- Learning outcomes measured and continuously improved
-- Student engagement and comprehension metrics tracked
-- Regular content updates based on industry evolution
+Academic content must satisfy stringent quality benchmarks:
+- Technical precision validated by domain specialists
+- Implementation samples verified and authenticated for reliability
+- Educational outcomes assessed and perpetually refined
+- Student participation and comprehension metrics monitored
+- Systematic content updates aligned with industrial progression
 
-## Governance
+## Institutional Governance
 
-This constitution establishes the foundational principles that govern all aspects of Physical AI & Humanoid Robotics Academy. All development activities, curriculum design, and technological decisions must comply with these principles. Deviations require formal constitutional amendments with proper justification and approval.
+This constitution defines the fundamental principles governing all operations of Physical AI & Humanoid Robotics Academy. All development initiatives, curriculum architecture, and technological determinations must adhere to these principles. Departures necessitate formal constitutional revisions with adequate rationale and endorsement.
 
-All contributions and reviews must verify compliance with these educational and technical principles. Any complexity introduced must be justified by clear benefits to the core mission of creating a technically accurate, practically applicable, and inspiring resource for AI-powered robotics education.
+All contributions and evaluations must confirm adherence to these educational and technical standards. Any introduced complexity must be substantiated by evident advantages to the primary mission of developing technically precise, practically valuable, and inspiring resources for AI-enhanced robotics education.
 
 **Version**: 1.0.0 | **Ratified**: 2026-02-02 | **Last Amended**: 2026-02-02
