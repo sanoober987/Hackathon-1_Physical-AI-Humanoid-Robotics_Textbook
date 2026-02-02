@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunksanoober_ai_robotics_academy=globalThis.webpackChunksanoober_ai_robotics_academy||[]).push([[235],{8552:a=>{a.exports=JSON.parse('{"name":"docusaurus-plugin-content-pages","id":"default"}')}}]);
