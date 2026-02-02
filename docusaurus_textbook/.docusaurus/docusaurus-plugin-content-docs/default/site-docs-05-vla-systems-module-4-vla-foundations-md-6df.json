@@ -1,7 +1,7 @@
 {
   "id": "vla-systems/module-4-vla-foundations",
-  "title": "Module 4: Vision-Language-Action (VLA) Systems - Foundations",
-  "description": "Empowering humanoids to perceive, understand, and interact with the world through multimodal AI",
+  "title": "Module 4: Multimodal Intelligence Systems - Visual-Linguistic-Motor Integration",
+  "description": "Enabling autonomous systems to comprehend, interpret, and engage with environments through integrated sensory processing",
   "source": "@site/docs/05-vla-systems/module-4-vla-foundations.md",
   "sourceDirName": "05-vla-systems",
   "slug": "/vla-systems/module-4-vla-foundations",
@@ -12,22 +12,22 @@
   "tags": [],
   "version": "current",
   "frontMatter": {
-    "title": "Module 4: Vision-Language-Action (VLA) Systems - Foundations",
-    "description": "Empowering humanoids to perceive, understand, and interact with the world through multimodal AI",
+    "title": "Module 4: Multimodal Intelligence Systems - Visual-Linguistic-Motor Integration",
+    "description": "Enabling autonomous systems to comprehend, interpret, and engage with environments through integrated sensory processing",
     "module": 4,
     "duration": "6-8 hours",
-    "prerequisites": "ROS 2, basic AI/ML concepts, Python",
+    "prerequisites": "ROS 2 fundamentals, introductory AI/ML concepts, Python proficiency",
     "objectives": [
-      "Understand the architecture and components of VLA systems for robotics",
-      "Explore key AI models for visual perception, natural language understanding, and action generation",
-      "Integrate multimodal sensors (cameras, microphones) with VLA pipelines (conceptual)",
-      "Develop basic VLA behaviors for simulated humanoid robots (design only)",
-      "Grasp the ethical considerations and challenges in VLA development"
+      "Comprehend the structural elements and components of multimodal robotic systems",
+      "Investigate core artificial intelligence models for visual processing, linguistic interpretation, and motor control",
+      "Connect heterogeneous sensors (optical, acoustic) with multimodal processing workflows (conceptual)",
+      "Formulate elementary multimodal behaviors for virtual humanoid platforms (design-focused)",
+      "Examine ethical implications and development challenges in multimodal AI systems"
     ]
   },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "Module 3: Hardware Foundations & Edge AI",
+    "title": "Module 3: Physical Components and Edge Computing Systems",
     "permalink": "/docs/hardware-basics/module-3-hardware"
   },
   "next": {

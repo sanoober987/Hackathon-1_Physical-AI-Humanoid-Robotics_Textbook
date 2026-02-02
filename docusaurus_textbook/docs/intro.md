@@ -1,19 +1,19 @@
 ---
-title: "Physical AI & Humanoid Robotics Textbook"
-description: "A Docusaurus-powered curriculum for Physical AI, ROS 2, simulation, VLA systems and humanoid robotics"
+title: "Physical AI & Humanoid Robotics Academy"
+description: "An immersive curriculum exploring embodied intelligence, robotic systems, and AI-driven automation"
 ---
 
-# Physical AI & Humanoid Robotics Textbook
+# Physical AI & Humanoid Robotics Academy
 
-Welcome to the *Physical AI & Humanoid Robotics* textbook — a practical, project-driven course designed to teach you how to design, simulate, and control humanoid robots using modern AI techniques.
+Welcome to the *Physical AI & Humanoid Robotics Academy* — an immersive learning experience designed to guide you through the creation, simulation, and control of sophisticated humanoid systems utilizing cutting-edge artificial intelligence methodologies.
 
-This textbook covers:
-- ROS 2 (Robotic Nervous System)
-- Simulation with Gazebo & Unity (Digital Twins)
-- NVIDIA Isaac Sim & Isaac ROS
-- Vision-Language-Action (VLA) systems
-- Hardware & Edge AI (Jetson kits, RealSense)
-- Humanoid design, kinematics, locomotion, manipulation
-- Hands-on projects and a capstone: Autonomous Humanoid
+This comprehensive curriculum encompasses:
+- Robot Operating System 2 (The Foundation Layer)
+- Physics-Based Simulation & Digital Replication (Gazebo & Unity)
+- NVIDIA Isaac Ecosystem (Sim & ROS Integration)
+- Multimodal Intelligence Systems (Visual-Linguistic-Motor Integration)
+- Embedded AI & Hardware Integration (Edge Computing Solutions)
+- Biomechanical Design, Kinematic Modeling, Movement Control, and Manipulation
+- Comprehensive Projects & Capstone: Autonomous Humanoid Development
 
-Use the sidebar to navigate modules. Each module includes theory, conceptual diagrams, design patterns, and non-executable procedural steps for labs and demonstrations.
+Navigate through the structured modules using the sidebar. Each section combines theoretical foundations, architectural diagrams, implementation patterns, and conceptual exercises for hands-on learning experiences.

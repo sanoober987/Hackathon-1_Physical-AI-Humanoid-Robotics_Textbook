@@ -1,7 +1,7 @@
 {
   "id": "hardware-basics/module-3-hardware",
-  "title": "Module 3: Hardware Foundations & Edge AI",
-  "description": "Jetson kits, RealSense, sensor integration, and robot options",
+  "title": "Module 3: Physical Components and Edge Computing Systems",
+  "description": "Embedded AI platforms, sensor arrays, and robotic hardware selection",
   "source": "@site/docs/04-hardware-basics/module-3-hardware.md",
   "sourceDirName": "04-hardware-basics",
   "slug": "/hardware-basics/module-3-hardware",
@@ -12,24 +12,24 @@
   "tags": [],
   "version": "current",
   "frontMatter": {
-    "title": "Module 3: Hardware Foundations & Edge AI",
-    "description": "Jetson kits, RealSense, sensor integration, and robot options",
+    "title": "Module 3: Physical Components and Edge Computing Systems",
+    "description": "Embedded AI platforms, sensor arrays, and robotic hardware selection",
     "module": 3,
     "duration": "6-8 hours",
-    "prerequisites": "Basic Linux, ROS 2",
+    "prerequisites": "Linux fundamentals, ROS 2 basics",
     "objectives": [
-      "Understand Edge AI kits and sensors",
-      "Understand tradeoffs of hardware selection",
-      "Plan deployment of ROS 2 nodes to edge devices"
+      "Comprehend embedded AI platforms and sensor technologies",
+      "Evaluate hardware selection trade-offs and performance factors",
+      "Design deployment strategies for ROS 2 applications on edge computing devices"
     ]
   },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "Module 2: Simulation & Digital Twins",
+    "title": "Module 2: Digital Replicas and Virtual Testing Environments",
     "permalink": "/docs/simulation/module-2-simulation"
   },
   "next": {
-    "title": "Module 4: Vision-Language-Action (VLA) Systems - Foundations",
+    "title": "Module 4: Multimodal Intelligence Systems - Visual-Linguistic-Motor Integration",
     "permalink": "/docs/vla-systems/module-4-vla-foundations"
   }
 }

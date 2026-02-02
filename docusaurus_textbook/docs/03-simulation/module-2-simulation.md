@@ -1,24 +1,24 @@
 ---
-title: "Module 2: Simulation & Digital Twins"
-description: "Physics simulation, Gazebo, Unity, and building digital twins"
+title: "Module 2: Digital Replicas and Virtual Testing Environments"
+description: "Creating physics-based simulations, virtual worlds, and digital twins for robot development"
 module: 2
 duration: "8-12 hours"
-prerequisites: "ROS 2 basics"
+prerequisites: "Fundamental ROS 2 knowledge"
 objectives:
-  - Understand Gazebo and Unity for robot simulation
-  - Build digital twins and simulate sensors
-  - Prepare environments for sim-to-real transfer
+  - Master simulation environments including Gazebo and Unity platforms
+  - Construct digital replicas and sensor emulation systems
+  - Develop strategies for simulation-to-reality adaptation
 ---
 
-# Module 2: Simulation & Digital Twins
+# Module 2: Digital Replicas and Virtual Testing Environments
 
-Simulation is the bridge between design and reality. In this module you'll:
-- Set up Gazebo and create SDF/URDF-based robots conceptually.
-- Use Unity for high-fidelity rendering and interactive HRI testing.
-- Simulate sensors: cameras, LiDAR, IMU, contact sensors.
-- Plan datasets for synthetic data generation to train perception models.
+Virtual testing environments serve as the crucial foundation connecting theoretical design with practical implementation. In this module you will explore:
+- Configuring Gazebo environments and developing SDF/URDF-based robotic models conceptually.
+- Leveraging Unity for photorealistic rendering and human-robot interaction assessment.
+- Emulating diverse sensor arrays: optical cameras, LiDAR systems, inertial measurement units, and tactile sensors.
+- Strategizing synthetic data collection for computer vision and perception algorithm training.
 
-## Learning Activities (static)
-- Design a simulated environment checklist (lighting, textures, physics parameters).
-- Create a dataset plan: object types, poses, lighting variations, annotation schema.
-- Define sim-to-real transfer steps: domain randomization list, system ID parameters to record.
+## Conceptual Learning Exercises
+- Develop a comprehensive virtual environment configuration checklist encompassing illumination, surface properties, and physical parameters.
+- Formulate a synthetic data generation strategy: object classifications, spatial arrangements, environmental variations, and annotation frameworks.
+- Establish simulation-to-reality adaptation protocols: domain adaptation techniques, system identification variables for monitoring.

@@ -1,7 +1,7 @@
 {
   "id": "simulation/module-2-simulation",
-  "title": "Module 2: Simulation & Digital Twins",
-  "description": "Physics simulation, Gazebo, Unity, and building digital twins",
+  "title": "Module 2: Digital Replicas and Virtual Testing Environments",
+  "description": "Creating physics-based simulations, virtual worlds, and digital twins for robot development",
   "source": "@site/docs/03-simulation/module-2-simulation.md",
   "sourceDirName": "03-simulation",
   "slug": "/simulation/module-2-simulation",
@@ -12,15 +12,15 @@
   "tags": [],
   "version": "current",
   "frontMatter": {
-    "title": "Module 2: Simulation & Digital Twins",
-    "description": "Physics simulation, Gazebo, Unity, and building digital twins",
+    "title": "Module 2: Digital Replicas and Virtual Testing Environments",
+    "description": "Creating physics-based simulations, virtual worlds, and digital twins for robot development",
     "module": 2,
     "duration": "8-12 hours",
-    "prerequisites": "ROS 2 basics",
+    "prerequisites": "Fundamental ROS 2 knowledge",
     "objectives": [
-      "Understand Gazebo and Unity for robot simulation",
-      "Build digital twins and simulate sensors",
-      "Prepare environments for sim-to-real transfer"
+      "Master simulation environments including Gazebo and Unity platforms",
+      "Construct digital replicas and sensor emulation systems",
+      "Develop strategies for simulation-to-reality adaptation"
     ]
   },
   "sidebar": "tutorialSidebar",
@@ -29,7 +29,7 @@
     "permalink": "/docs/simulation/gazebo-unity"
   },
   "next": {
-    "title": "Module 3: Hardware Foundations & Edge AI",
+    "title": "Module 3: Physical Components and Edge Computing Systems",
     "permalink": "/docs/hardware-basics/module-3-hardware"
   }
 }
