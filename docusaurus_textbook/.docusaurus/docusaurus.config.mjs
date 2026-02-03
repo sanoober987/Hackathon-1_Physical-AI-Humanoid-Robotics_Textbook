@@ -16,8 +16,7 @@ export default {
   "i18n": {
     "defaultLocale": "en",
     "locales": [
-      "en",
-      "ur"
+      "en"
     ],
     "path": "i18n",
     "localeConfigs": {}
@@ -28,11 +27,11 @@ export default {
       {
         "docs": {
           "sidebarPath": "./sidebars.js",
-          "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/"
+          "editUrl": "https://github.com/physical-ai-humanoid-robotics/physical-ai-humanoid-robotics-academy/edit/main/"
         },
         "blog": {
           "showReadingTime": true,
-          "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/"
+          "editUrl": "https://github.com/physical-ai-humanoid-robotics/physical-ai-humanoid-robotics-academy/edit/main/"
         },
         "theme": {
           "customCss": "./src/css/custom.css"
@@ -59,25 +58,6 @@ export default {
           "href": "https://github.com/physical-ai-humanoid-robotics",
           "label": "GitHub",
           "position": "right"
-        },
-        {
-          "type": "localeDropdown",
-          "position": "right",
-          "i18n": {
-            "defaultLocale": "en",
-            "locales": [
-              "en",
-              "ur"
-            ],
-            "localeConfigs": {
-              "ur": {
-                "label": "اردو",
-                "direction": "rtl"
-              }
-            }
-          },
-          "dropdownItemsBefore": [],
-          "dropdownItemsAfter": []
         }
       ],
       "hideOnScroll": false

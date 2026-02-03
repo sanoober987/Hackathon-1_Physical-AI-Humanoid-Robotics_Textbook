@@ -48,12 +48,46 @@
   background: linear-gradient(135deg, var(--primary-600) 0%, var(--primary-700) 100%);
   color: white;
   padding: 16px;
-  text-align: center;
   font-weight: 600;
   font-size: 16px;
   display: flex;
   align-items: center;
   justify-content: space-between;
+}
+
+.header-content {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  width: 100%;
+}
+
+.session-info {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+}
+
+.tutor-mode-toggle {
+  background: rgba(255, 255, 255, 0.2);
+  border: 1px solid rgba(255, 255, 255, 0.3);
+  color: white;
+  padding: 4px 8px;
+  border-radius: 12px;
+  font-size: 12px;
+  cursor: pointer;
+  transition: all 0.2s ease;
+}
+
+.tutor-mode-toggle:hover {
+  background: rgba(255, 255, 255, 0.3);
+  border-color: rgba(255, 255, 255, 0.5);
+}
+
+.tutor-mode-toggle.active {
+  background: rgba(46, 204, 113, 0.3);
+  border-color: rgba(46, 204, 113, 0.6);
+  box-shadow: 0 0 8px rgba(46, 204, 113, 0.4);
 }
 
 .chat-close {
@@ -115,6 +149,26 @@
   align-self: flex-start;
   border-bottom-left-radius: 4px;
   color: var(--neutral-900);
+}
+
+.bot.help {
+  background: linear-gradient(135deg, #dbeafe 0%, #bfdbfe 100%);
+  border: 1px solid #93c5fd;
+}
+
+.bot.topics {
+  background: linear-gradient(135deg, #f0fdf4 0%, #bbf7d0 100%);
+  border: 1px solid #86efac;
+}
+
+.bot.examples {
+  background: linear-gradient(135deg, #fef3c7 0%, #fde68a 100%);
+  border: 1px solid #fbbf24;
+}
+
+.bot.info {
+  background: linear-gradient(135deg, #dbeafe 0%, #93c5fd 100%);
+  border: 1px solid #60a5fa;
 }
 
 .chat-input {

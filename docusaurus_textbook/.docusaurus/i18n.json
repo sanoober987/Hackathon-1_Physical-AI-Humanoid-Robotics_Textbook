@@ -1,8 +1,7 @@
 {
   "defaultLocale": "en",
   "locales": [
-    "en",
-    "ur"
+    "en"
   ],
   "path": "i18n",
   "currentLocale": "en",
@@ -16,16 +15,6 @@
       "translate": false,
       "url": "https://physicalhumanoidaitextbook.vercel.app",
       "baseUrl": "/"
-    },
-    "ur": {
-      "label": "اردو",
-      "direction": "rtl",
-      "htmlLang": "ur",
-      "calendar": "gregory",
-      "path": "ur",
-      "translate": true,
-      "url": "https://physicalhumanoidaitextbook.vercel.app",
-      "baseUrl": "/ur/"
     }
   }
 }

@@ -1,19 +1,19 @@
 ---
 title: "Physical AI & Humanoid Robotics Textbook"
-description: "A Docusaurus-powered curriculum for Physical AI, ROS 2, simulation, VLA systems and humanoid robotics"
+description: "An immersive curriculum exploring embodied intelligence, robotic systems, and AI-driven automation"
 ---
 
 # Physical AI & Humanoid Robotics Textbook
 
-Welcome to the *Physical AI & Humanoid Robotics* textbook — a practical, project-driven course designed to teach you how to design, simulate, and control humanoid robots using modern AI techniques.
+Dive into the *Physical AI & Humanoid Robotics* textbook — an intensive learning experience that guides you through designing, simulating, and controlling sophisticated humanoid robots using state-of-the-art AI methodologies.
 
-This textbook covers:
-- ROS 2 (Robotic Nervous System)
-- Simulation with Gazebo & Unity (Digital Twins)
-- NVIDIA Isaac Sim & Isaac ROS
-- Vision-Language-Action (VLA) systems
-- Hardware & Edge AI (Jetson kits, RealSense)
-- Humanoid design, kinematics, locomotion, manipulation
-- Hands-on projects and a capstone: Autonomous Humanoid
+This comprehensive curriculum explores:
+- ROS 2 Framework (The Core Infrastructure)
+- Advanced Simulation & Digital Twin Development (Gazebo & Unity Integration)
+- NVIDIA Isaac Ecosystem (Sim and ROS Integration)
+- Vision-Language-Action Architectures (Multimodal Intelligence)
+- Hardware Implementation & Edge AI (Jetson Platforms, Sensor Integration)
+- Humanoid Mechanics: Design, Kinematics, Locomotion, and Manipulation
+- Comprehensive Capstone: Developing an Autonomous Humanoid System
 
-Use the sidebar to navigate modules. Each module includes theory, conceptual diagrams, design patterns, and non-executable procedural steps for labs and demonstrations.
+Navigate through the structured modules using the sidebar. Each section combines theoretical foundations, architectural insights, implementation strategies, and practical exercises for comprehensive learning.

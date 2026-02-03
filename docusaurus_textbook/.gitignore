@@ -1,0 +1,50 @@
+# Python
+*.pyc
+__pycache__/
+*.pyo
+*.pyd
+*.env
+
+# Virtual environment
+venv/
+env/
+.venv/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Docusaurus build output
+build/
+.docusaurus/
+
+# Node modules
+node_modules/
+
+# Log files
+*.log
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# VS Code / IDE files
+.vscode/
+.idea/
+
+# Hidden files you don’t want to push
+*.swp
+*.swo
+*.sublime-project
+*.sublime-workspace
+
+# Pytest cache
+.pytest_cache/
+
+# Coverage reports
+htmlcov/
+.coverage
+
+# Misc
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*

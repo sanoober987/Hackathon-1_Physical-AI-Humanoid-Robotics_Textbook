@@ -26,7 +26,7 @@ const config = {
   // may want to replace "en" with "zh-Hans".
   i18n: {
     defaultLocale: 'en',
-    locales: ['en', 'ur'], // Added Urdu locale
+    locales: ['en'],
   },
 
 
@@ -37,13 +37,11 @@ const config = {
       ({
         docs: {
           sidebarPath: './sidebars.js',
-          // Please change this to your repo. Suffix with a / for GitHub pages deployment.
-          editUrl: 'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
+          editUrl: 'https://github.com/physical-ai-humanoid-robotics/physical-ai-humanoid-robotics-academy/edit/main/',
         },
         blog: {
           showReadingTime: true,
-          // Please change this to your repo. Suffix with a / for GitHub pages deployment.
-          editUrl: 'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
+          editUrl: 'https://github.com/physical-ai-humanoid-robotics/physical-ai-humanoid-robotics-academy/edit/main/',
         },
         theme: {
           customCss: './src/css/custom.css',
@@ -51,6 +49,7 @@ const config = {
       }),
     ],
   ],
+
 
   themeConfig:
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
@@ -74,20 +73,6 @@ const config = {
             href: 'https://github.com/physical-ai-humanoid-robotics',
             label: 'GitHub',
             position: 'right',
-          },
-          {
-            type: 'localeDropdown',
-            position: 'right',
-            i18n: {
-  defaultLocale: 'en',
-  locales: ['en', 'ur'],
-  localeConfigs: {
-    ur: {
-      label: 'اردو',
-      direction: 'rtl',
-    },
-  },
-},
           },
         ],
       },

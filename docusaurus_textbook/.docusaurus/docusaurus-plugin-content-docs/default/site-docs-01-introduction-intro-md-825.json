@@ -1,19 +1,19 @@
 {
   "id": "introduction/intro",
   "title": "Physical AI & Humanoid Robotics Textbook",
-  "description": "A Docusaurus-powered curriculum for Physical AI, ROS 2, simulation, VLA systems and humanoid robotics",
+  "description": "An immersive curriculum exploring embodied intelligence, robotic systems, and AI-driven automation",
   "source": "@site/docs/01-introduction/intro.md",
   "sourceDirName": "01-introduction",
   "slug": "/introduction/intro",
   "permalink": "/docs/introduction/intro",
   "draft": false,
   "unlisted": false,
-  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/01-introduction/intro.md",
+  "editUrl": "https://github.com/physical-ai-humanoid-robotics/physical-ai-humanoid-robotics-academy/edit/main/docs/01-introduction/intro.md",
   "tags": [],
   "version": "current",
   "frontMatter": {
     "title": "Physical AI & Humanoid Robotics Textbook",
-    "description": "A Docusaurus-powered curriculum for Physical AI, ROS 2, simulation, VLA systems and humanoid robotics"
+    "description": "An immersive curriculum exploring embodied intelligence, robotic systems, and AI-driven automation"
   },
   "sidebar": "tutorialSidebar",
   "next": {
