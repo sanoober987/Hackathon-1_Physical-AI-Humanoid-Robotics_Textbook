@@ -1,131 +1,131 @@
 {
-  "/__docusaurus/debug-5ff": {
+  "/__docusaurus/debug/-546": {
     "__comp": "__comp---theme-debug-config-23-a-2ff",
     "__context": {
-      "plugin": "plugin---docusaurus-debugb-38-ad3"
+      "plugin": "plugin---docusaurus-debug-b-38-895"
     }
   },
-  "/__docusaurus/debug/config-5ba": {
+  "/__docusaurus/debug/config/-8a8": {
     "__comp": "__comp---theme-debug-config-23-a-2ff",
     "__context": {
-      "plugin": "plugin---docusaurus-debugb-38-ad3"
+      "plugin": "plugin---docusaurus-debug-b-38-895"
     }
   },
-  "/__docusaurus/debug/content-a2b": {
+  "/__docusaurus/debug/content/-2da": {
     "__comp": "__comp---theme-debug-contentba-8-ce7",
     "__context": {
-      "plugin": "plugin---docusaurus-debugb-38-ad3"
+      "plugin": "plugin---docusaurus-debug-b-38-895"
     },
-    "__props": "__props---docusaurus-debug-content-3-c-0-be2"
+    "__props": "__props---docusaurus-debug-content-197-dc7"
   },
-  "/__docusaurus/debug/globalData-c3c": {
+  "/__docusaurus/debug/globalData/-178": {
     "__comp": "__comp---theme-debug-global-dataede-0fa",
     "__context": {
-      "plugin": "plugin---docusaurus-debugb-38-ad3"
+      "plugin": "plugin---docusaurus-debug-b-38-895"
     }
   },
-  "/__docusaurus/debug/metadata-156": {
+  "/__docusaurus/debug/metadata/-d6c": {
     "__comp": "__comp---theme-debug-site-metadata-68-e-3d4",
     "__context": {
-      "plugin": "plugin---docusaurus-debugb-38-ad3"
+      "plugin": "plugin---docusaurus-debug-b-38-895"
     }
   },
-  "/__docusaurus/debug/registry-88c": {
+  "/__docusaurus/debug/registry/-6e3": {
     "__comp": "__comp---theme-debug-registry-679-501",
     "__context": {
-      "plugin": "plugin---docusaurus-debugb-38-ad3"
+      "plugin": "plugin---docusaurus-debug-b-38-895"
     }
   },
-  "/__docusaurus/debug/routes-000": {
+  "/__docusaurus/debug/routes/-cab": {
     "__comp": "__comp---theme-debug-routes-946-699",
     "__context": {
-      "plugin": "plugin---docusaurus-debugb-38-ad3"
+      "plugin": "plugin---docusaurus-debug-b-38-895"
     }
   },
-  "/docs-0e0": {
+  "/docs/-c06": {
     "__comp": "__comp---theme-docs-root-5-e-9-0b6",
     "__context": {
-      "plugin": "plugin---docsaba-d7c"
+      "plugin": "plugin---docs-aba-4f5"
     }
   },
-  "/docs-69f": {
+  "/docs/-763": {
     "__comp": "__comp---theme-doc-version-roota-7-b-5de",
-    "__props": "__props---docs-005-788"
+    "__props": "__props---docs-11-b-f70"
   },
-  "/docs-fd4": {
+  "/docs/-3f7": {
     "__comp": "__comp---theme-doc-roota-94-67a"
   },
-  "/docs/advanced-ai-control/module-5-advanced-ai-e09": {
+  "/docs/advanced-ai-control/module-5-advanced-ai/-d65": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-advanced-ai-control-module-5-advanced-aie-0-d-f15"
+    "content": "content---docs-advanced-ai-control-module-5-advanced-ai-e-0-d-021"
   },
-  "/docs/appendix/glossary-16e": {
+  "/docs/appendix/glossary/-206": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-appendix-glossary-888-494"
+    "content": "content---docs-appendix-glossary-888-c40"
   },
-  "/docs/appendix/references-bd3": {
+  "/docs/appendix/references/-5e5": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-appendix-references-2-e-8-0cd"
+    "content": "content---docs-appendix-references-2-e-8-b7e"
   },
-  "/docs/appendix/resources-84e": {
+  "/docs/appendix/resources/-fe9": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-appendix-resourcesc-30-d3d"
+    "content": "content---docs-appendix-resources-c-30-052"
   },
-  "/docs/hardware-basics/module-3-hardware-822": {
+  "/docs/hardware-basics/module-3-hardware/-0ab": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-hardware-basics-module-3-hardwarec-82-50c"
+    "content": "content---docs-hardware-basics-module-3-hardware-c-82-3d3"
   },
-  "/docs/humanoid-design/module-6-humanoid-design-6be": {
+  "/docs/humanoid-design/module-6-humanoid-design/-9da": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-humanoid-design-module-6-humanoid-designeeb-d41"
+    "content": "content---docs-humanoid-design-module-6-humanoid-design-eeb-506"
   },
-  "/docs/intro-61d": {
+  "/docs/intro/-e44": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-intro-0-e-3-be1"
+    "content": "content---docs-intro-0-e-3-7e4"
   },
-  "/docs/introduction/intro-61f": {
+  "/docs/introduction/intro/-aa4": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-introduction-intro-825-826"
+    "content": "content---docs-introduction-intro-825-f8e"
   },
-  "/docs/ros2-foundations/module-1-ros2-dc0": {
+  "/docs/ros2-foundations/module-1-ros2/-36e": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-ros-2-foundations-module-1-ros-2-f-46-e73"
+    "content": "content---docs-ros-2-foundations-module-1-ros-2-f-46-822"
   },
-  "/docs/ros2-foundations/ros2-hands-on-6fd": {
+  "/docs/ros2-foundations/ros2-hands-on/-a2d": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-ros-2-foundations-ros-2-hands-on-5-e-4-55e"
+    "content": "content---docs-ros-2-foundations-ros-2-hands-on-5-e-4-2ad"
   },
-  "/docs/simulation/digital-twins-2dd": {
+  "/docs/simulation/digital-twins/-e8e": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-simulation-digital-twins-349-c42"
+    "content": "content---docs-simulation-digital-twins-349-e3a"
   },
-  "/docs/simulation/gazebo-unity-47c": {
+  "/docs/simulation/gazebo-unity/-ef5": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-simulation-gazebo-unity-7-f-0-766"
+    "content": "content---docs-simulation-gazebo-unity-7-f-0-37a"
   },
-  "/docs/simulation/module-2-simulation-224": {
+  "/docs/simulation/module-2-simulation/-ca2": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-simulation-module-2-simulation-677-4c8"
+    "content": "content---docs-simulation-module-2-simulation-677-eee"
   },
-  "/docs/vla-systems/module-4-vla-foundations-685": {
+  "/docs/vla-systems/module-4-vla-foundations/-858": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-vla-systems-module-4-vla-foundations-6-df-07c"
+    "content": "content---docs-vla-systems-module-4-vla-foundations-6-df-512"
   },
-  "/docs/vla-systems/vla-action-b08": {
+  "/docs/vla-systems/vla-action/-5da": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-vla-systems-vla-actionfe-6-52d"
+    "content": "content---docs-vla-systems-vla-action-fe-6-b43"
   },
-  "/docs/vla-systems/vla-hands-on-basic-21c": {
+  "/docs/vla-systems/vla-hands-on-basic/-b24": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-vla-systems-vla-hands-on-basicccc-0ed"
+    "content": "content---docs-vla-systems-vla-hands-on-basic-ccc-ae0"
   },
-  "/docs/vla-systems/vla-language-8c1": {
+  "/docs/vla-systems/vla-language/-d38": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-vla-systems-vla-language-4-f-4-764"
+    "content": "content---docs-vla-systems-vla-language-4-f-4-a90"
   },
-  "/docs/vla-systems/vla-vision-596": {
+  "/docs/vla-systems/vla-vision/-64e": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-vla-systems-vla-vision-4-df-a4c"
+    "content": "content---docs-vla-systems-vla-vision-4-df-dd6"
   },
   "/-2e1": {
     "__comp": "__comp---site-src-pages-index-jsc-4-f-f99",

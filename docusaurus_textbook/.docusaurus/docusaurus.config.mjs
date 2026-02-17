@@ -21,6 +21,20 @@ export default {
     "path": "i18n",
     "localeConfigs": {}
   },
+  "trailingSlash": true,
+  "plugins": [
+    [
+      "@docusaurus/plugin-sitemap",
+      {
+        "changefreq": "weekly",
+        "priority": 0.5,
+        "ignorePatterns": [
+          "/tags/**"
+        ],
+        "filename": "sitemap.xml"
+      }
+    ]
+  ],
   "presets": [
     [
       "classic",
@@ -358,7 +372,6 @@ export default {
     "static"
   ],
   "customFields": {},
-  "plugins": [],
   "themes": [],
   "scripts": [],
   "headTags": [],

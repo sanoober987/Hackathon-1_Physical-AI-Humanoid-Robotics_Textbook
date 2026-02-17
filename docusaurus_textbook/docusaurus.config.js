@@ -31,13 +31,18 @@ const config = {
 
   // Trailing slash handling for better compatibility with Vercel
   trailingSlash: true,
+plugins: [
+  [
+    "@docusaurus/plugin-sitemap",
+    {
+      changefreq: "weekly",
+      priority: 0.5,
+      ignorePatterns: ["/tags/**"],
+      filename: "sitemap.xml",
+    },
+  ],
+],
 
-  // Sitemap configuration for SEO
-  sitemap: {
-    changefreq: 'weekly',
-    priority: 0.5,
-    filename: 'sitemap.xml',
-  },
 
   presets: [
     [
